@@ -39,13 +39,13 @@ This directory contains code and documentation for **Question 1** of the PA2. Th
 
 1. **Clone this Repository**
    ```bash
-   git clone https://github.com/YourUsername/YourRepository.git
-   cd YourRepository/Q1
+   git clone https://github.com/anuj-l22/Speech_Understanding_PA2.git
+   cd Speech_Understanding_PA2/Q1
    ```
 
 2. **Install Dependencies**
    - Make sure you have the necessary Python libraries installed (e.g., `transformers`, `torch`, `librosa`, `soundfile`, `pydub`, `numpy`, `matplotlib`, `tqdm`, `scikit-learn`, and `peft`).  
-   - You can install them individually or via a `requirements.txt` if provided.
+  
 
 3. **Prepare the Datasets**
    - Download and extract the VoxCeleb1 and VoxCeleb2 datasets into directories named `vox1` and `vox2`, respectively.
