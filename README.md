@@ -1,4 +1,4 @@
-# CSL7770 : Speech Understanding (By Anuj Rajan Lalla [B22AI061])
+# CSL7770 : Speech Understanding PA2 (By Anuj Rajan Lalla [B22AI061])
 
 This repository contains solutions for Speech Understanding tasks across two primary questions.
 
