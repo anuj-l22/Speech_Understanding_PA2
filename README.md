@@ -41,8 +41,8 @@ Extract MFCC features from a Kaggle audio dataset of 10 Indian languages, analyz
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/YourUsername/YourRepository.git
-   cd YourRepository
+   git clone https://github.com/anuj-l22/Speech_Understanding_PA2.git
+   cd Speech_Understanding_PA2
    ```
 
 2. **Navigate to the Relevant Directory**  
